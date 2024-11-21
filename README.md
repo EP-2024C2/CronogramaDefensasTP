@@ -38,8 +38,8 @@ Con el objetivo de realizar las defensas de los trabajos prácticos y finalizar 
 |5|Gerardo|PolimorfiBoys|19:15|
 |6|Gerardo|PersistenciaAMates24|19:30|
 |7|Gerardo|JoJoBros|20:00|
-|9|Gerardo|Ctrl+Alt+Delete|20:15|
-|8|Gerardo|MichiCafeteria-Persistencia|20:30|
+|8|Gerardo|Ctrl+Alt+Delete|20:15|
+|9|Gerardo|MichiCafeteria-Persistencia|20:30|
 |10|Gerardo|OYENTE-INDIVIDUAL|20:45|
 
 ## Datos Utiles para los Alumnos
