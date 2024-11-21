@@ -43,5 +43,5 @@ Con el objetivo de realizar las defensas de los trabajos prácticos y finalizar 
 |10|Gerardo|OYENTE-INDIVIDUAL|20:45|
 
 ## Datos Utiles para los Alumnos
-La siguiente [planilla](https://docs.google.com/spreadsheets/d/1dR2rPAyvgY_q65jCwLFmjRyIzv5CJDBfYUthO39WTPM/edit?gid=0#gid=0) estan los intregantes de cada grupo. Si aún no completaste los datos por favor hacerlo a la brevedad para no tener inconvenientes al momento de cerrar las notas.
+En la siguiente [planilla](https://docs.google.com/spreadsheets/d/1dR2rPAyvgY_q65jCwLFmjRyIzv5CJDBfYUthO39WTPM/edit?gid=0#gid=0) están los intregantes de cada grupo. Si aún no completaste los datos por favor hacerlo a la brevedad para no tener inconvenientes al momento de cerrar las notas.
 
